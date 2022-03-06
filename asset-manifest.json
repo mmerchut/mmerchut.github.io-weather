@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mmerchut.github.io-weather/static/css/main.b615adf9.css",
+    "main.js": "/mmerchut.github.io-weather/static/js/main.f687c573.js",
+    "index.html": "/mmerchut.github.io-weather/index.html",
+    "main.b615adf9.css.map": "/mmerchut.github.io-weather/static/css/main.b615adf9.css.map",
+    "main.f687c573.js.map": "/mmerchut.github.io-weather/static/js/main.f687c573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b615adf9.css",
+    "static/js/main.f687c573.js"
+  ]
+}
